@@ -1,10 +1,13 @@
-
+import Mohit from "./Mohit"
 
 function App() {
   
 
   return (
-    <h1>Mohit React App</h1>
+    <div>
+      <Mohit/>
+      <h1>React App</h1>
+    </div>
   )
 }
 
