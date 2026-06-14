@@ -7,6 +7,7 @@ function App() {
     <div>
       <Mohit/>
       <h1>React App</h1>
+      
     </div>
   )
 }
