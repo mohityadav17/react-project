@@ -1,15 +1,15 @@
 import Mohit from "./Mohit"
 
-function App() {
-  
+import React from 'react'
 
+const App = () => {
   return (
     <div>
       <Mohit/>
-      <h1>React App</h1>
-      
+      <h1>Hello Baccho</h1>
     </div>
   )
 }
 
 export default App
+
